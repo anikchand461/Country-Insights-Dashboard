@@ -12,6 +12,7 @@ An interactive Jupyter Notebook-based dashboard for visualizing and analyzing co
 Ensure you have the following installed:
 - Python 3.x
 - Jupyter Notebook
+- Kaggle
 - Pandas
 - Matplotlib
 - Seaborn
